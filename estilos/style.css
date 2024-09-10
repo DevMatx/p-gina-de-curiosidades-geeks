@@ -304,6 +304,11 @@ body {
         padding: 8px;
     }
 
+    .navegacao {
+    display: flex;
+    gap: 3rem;
+}
+
     .section2::after {
         content: "";
         position: absolute;
